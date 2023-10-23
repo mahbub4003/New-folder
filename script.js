@@ -1,5 +1,5 @@
 let speech = new SpeechSynthesisUtterance();
-speech.rate = 0.5;
+speech.rate = 0.8;
 let text = document.querySelector("textarea");
 
 let voices = [];
